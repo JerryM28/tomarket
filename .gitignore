@@ -1,0 +1,10 @@
+env
+__pycache__
+*.json
+!config.json
+!tokens.json
+*.py
+!crot.py
+*.txt
+!requirements.txt
+*.log
