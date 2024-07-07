@@ -1,6 +1,6 @@
 {
   "interval": 3,
-  "game_low_point": 100,
-  "game_high_point": 150,
+  "game_low_point": 800,
+  "game_high_point": 1000,
   "play_game": true
 }
